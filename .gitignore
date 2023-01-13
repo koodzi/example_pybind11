@@ -1,0 +1,8 @@
+.benchmarks/
+.pytest_cache/
+spl.egg-info/
+dist/
+build/
+.venv/
+__pycache__/
+*.so
